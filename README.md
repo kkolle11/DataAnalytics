@@ -1,2 +1,2 @@
 # DataAnalytics
-My first project with the DataQuest.io Data Analytics learning path.
+See the Wiki link for all the details.
